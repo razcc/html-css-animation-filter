@@ -69,5 +69,16 @@
 }
 
 .ex-8-img{
-  transition: all 4s;
+  transition: all 2s;
+}
+
+/* Es 9 */
+.ex-9-img:hover{
+  filter: grayscale(1);
+  border-radius: 20px;
+  transform: scale(1.5);
+}
+
+.ex-9-img{
+  transition: all 2s;
 }
