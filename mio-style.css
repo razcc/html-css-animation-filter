@@ -82,3 +82,17 @@
 .ex-9-img{
   transition: all 2s;
 }
+
+/* Es 10 */
+.ex-10-icon{
+  rotate: 360;
+  animation-name: caricamento;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+@keyframes caricamento{
+  0%{
+    transform: rotate(1turn);
+  }
+}
+
