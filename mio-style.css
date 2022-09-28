@@ -12,3 +12,10 @@
 .ex-1-square{
   transition:  background-color 2s;
 }
+
+.ex-2-square:active{
+  width: 100%;
+}
+.ex-2-square{
+  transition: width 3s;
+}
