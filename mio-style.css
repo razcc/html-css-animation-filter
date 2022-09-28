@@ -61,3 +61,13 @@
 .ex-7-img{
   transition: all 4s;
 }
+
+/* Es 8 */
+.ex-8-img:hover{
+  filter: grayscale(1);
+  border-radius: 20px;
+}
+
+.ex-8-img{
+  transition: all 4s;
+}
