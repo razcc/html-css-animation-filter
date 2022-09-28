@@ -36,3 +36,14 @@
 .ex-4-square{
   transition: all 2s;
 }
+
+/* es5 */
+.ex-5-square:hover{
+  transform: scale(2);
+}
+.ex-5-square:active{
+  transform: scale(0.5);
+}
+.ex-5-square{
+  transition: all 2s;
+}
